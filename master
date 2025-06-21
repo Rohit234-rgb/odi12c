@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Rohit234-rgb/odi12c.git
 git push -u origin main
+cd E:\ODIgit
+git remote set-url origin git@github.com:Rohit234-rgb/odi12c.git
